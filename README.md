@@ -1,16 +1,14 @@
-## Hi there 👋
+## BEM VINDOS (AS) AO MEU PERFIL 🎀
 
-<!--
-**thawanylinda/Thawanylinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Meu nome é Thawany Ayumi Fagundes. **
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo na linguagem Javascript e Markdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Este é um repositório para compartilhamento de projetos pessoais da plataforma Alura
+
+  ** Voce pode entrar em contato comigo 💌:**
+
+  00001107257116sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/clrBIgcfoQkAAAAC/katherine-pierce-the-vampire-diaries.gif)
+
